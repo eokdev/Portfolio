@@ -47,9 +47,7 @@ receipt for this application is via a bluetooth thermal printer.</p>
 </div>
 
 <h2 align="center">Dooba Application:</h2>
-<p align="center">A Frontend freelance project which was done by me for a client. It
-is a wrkman like application, which links clients to professionals. I
-developed both the client and merchant side of the application.</p>
+<p align="center"> Dooba is a wrkman like application, which links clients to professionals. The application has both the client and merchant side. The platform serves as the bridge between those seeking quality services and experts ready to meet their needs. Whether you're looking for a reliable plumber, a creative designer, or any other service provider, the app simplifies the process of finding and hiring trusted professionals.</p>
 <div align="left">
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/9db884d6-7b28-44b4-868e-ae0470d6236c" alt="d 1" width="200" height="400" />

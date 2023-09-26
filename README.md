@@ -41,7 +41,11 @@
  <img src="https://github.com/eokdev/Portfolio/assets/88353231/cd504dce-224f-4b25-b7f1-67f1ecfcd254" alt="j 7" width="200" height="400" />
  
 </div>
+
 <h2 align="center">Dooba Application:</h2>
+<p align="center">A Frontend freelance project which was done by me for a client. It
+is a wrkman like application, which links clients to professionals. I
+developed both the client and merchant side of the application.</p>
 <div align="left">
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/9db884d6-7b28-44b4-868e-ae0470d6236c" alt="d 1" width="200" height="400" />

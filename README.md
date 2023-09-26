@@ -22,7 +22,7 @@
 
 <h3 align="left">Projects:</h3>
 
-<h2 align="left">Projects:</h2>
+<h4 align="left">JustBeta Application:</h4>
 
 
 

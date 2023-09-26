@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olorunshola Emmanuel</h1>
 <h3 align="center">Mobile Engineer</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="eokdev" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="eokdev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/eokdev" target="blank"><img src="https://img.shields.io/twitter/follow/eokdev?logo=twitter&style=for-the-badge" alt="eokdev" /></a> </p>
 

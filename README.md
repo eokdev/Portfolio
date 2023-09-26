@@ -28,6 +28,9 @@
 
 <h3 align="left">Projects:</h3>
 <h2 align="center">JustBeta Application:</h2>
+<p align="center">A Bill payment Application, with services such as Electricity
+Payment, VTU, Mobile data, Cable Tv Subscription etc. Printout of
+receipt for this application is via a bluetooth thermal printer.</p>
 <div align="left">
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/8a179532-8774-43cd-9e3b-da75b454830f" alt="Pj 1" width="200" height="400" />
@@ -58,6 +61,17 @@ developed both the client and merchant side of the application.</p>
     <img src="https://github.com/eokdev/Portfolio/assets/88353231/5b8b7ee1-ca08-4011-9fb9-ac31a5b5edc9" alt="d 6" width="200" height="400" />
 </div>
 <h2 align="center">Handbook Application:</h2>
+<p align="center">Joseph Ayo Babalola University Student Handbook mobile
+application, designed to provide students with a comprehensive
+and easily accessible digital guide. This app served as a one-stop
+resource, offering important information such as campus facilities,
+academic guidelines, event calendars, and administrative contacts.
+By leveraging user-friendly interfaces and intuitive navigation, the
+application significantly enhanced students' ability to navigate
+campus life efficiently. With my efforts, I successfully delivered an
+essential tool that improved students' overall experience and
+engagement with the institution.</p>
+
 <div align="left">
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/fa202edc-4f5b-434e-8929-1ec46bcf840c" alt="h 1" width="200" height="400" />

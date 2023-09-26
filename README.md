@@ -50,7 +50,7 @@
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/bc8a77d8-5b2c-4c3b-93d9-1d9c9a7f31a3" alt="Project 4" width="200" height="400" />
    <img src="https://github.com/eokdev/Portfolio/assets/88353231/ad866beb-6482-4d04-a748-9d91fea3461b" alt="Project 5" width="200" height="400" />
- 
+    <img src="https://github.com/eokdev/Portfolio/assets/88353231/5b8b7ee1-ca08-4011-9fb9-ac31a5b5edc9" alt="Project 6" width="200" height="400" />
 </div>
 <h2 align="center">Handbook Application:</h2>
 <div align="left">
@@ -62,8 +62,9 @@
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/be058209-21c0-4a0d-8f60-9cb1a5b24e04" alt="Project 4" width="200" height="400" />
    <img src="https://github.com/eokdev/Portfolio/assets/88353231/0e885c80-fc3c-4e35-afd5-2a03a456186f" alt="Project 5" width="200" height="400" />
-   <img src="" alt="Project 5" width="200" height="400" />
+
 </div>
+
 
 
 

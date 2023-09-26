@@ -42,5 +42,18 @@
 
 </div>
 <h2 align="center">Dooba Application:</h2>
+<div align="left">
+
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/9db884d6-7b28-44b4-868e-ae0470d6236c" alt="Project 1" width="200" height="400" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/d4911d40-b51f-40d0-92e4-89bfcfd20515" alt="Project 2" width="200" height="400" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/0aee5786-4551-464f-8680-2721a36e4890" alt="Project 3" width="200" height="400" />
+
+
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/a45403da-be36-4ee4-88dc-ab3a73690785" alt="Project 4" width="200" height="400" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/9a642947-3bce-4553-bdaa-d7d545dfbf7e" alt="Project 5" width="200" height="400" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/8a179532-8774-43cd-9e3b-da75b454830f" alt="Project 6" width="200" height="400" />
+   <img src="https://github.com/eokdev/Portfolio/assets/88353231/393b612d-5b8e-4f68-a4e3-04747126be88" alt="Project 7" width="200" height="400" />
+ 
+</div>
 
 

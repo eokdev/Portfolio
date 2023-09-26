@@ -23,10 +23,7 @@
 <h3 align="left">Projects:</h3>
 <h4 align="left">JustBeta Application:</h4>
 ![IMG-20230926-WA0008](https://github.com/eokdev/Portfolio/assets/88353231/7f888d4f-130d-437d-81be-3cc671de2a74)
-![IMG-20230926-WA0006](https://github.com/eokdev/Portfolio/assets/88353231/8a179532-8774-43cd-9e3b-da75b454830f)
-![IMG-20230926-WA0000](https://github.com/eokdev/Portfolio/assets/88353231/736b89be-3efe-412d-adef-cd39a2dbb59b)
-![IMG-20230926-WA0004](https://github.com/eokdev/Portfolio/assets/88353231/976cd3b7-e783-4c35-9306-b0afb9a1fed6)
-![IMG-20230926-WA0003](https://github.com/eokdev/Portfolio/assets/88353231/a45403da-be36-4ee4-88dc-ab3a73690785)
+
 
 
 

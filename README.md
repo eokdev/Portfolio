@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-<h2 align="cnter">JustBeta Application:</h2>
+<h2 align="center">JustBeta Application:</h2>
 <div align="left">
 
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/8a179532-8774-43cd-9e3b-da75b454830f" alt="Project 1" width="200" height="400" />

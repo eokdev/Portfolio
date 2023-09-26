@@ -8,7 +8,7 @@
 <p align="left">
   🔭 I’m currently working on **A MOBILE APPLICATION**
   <br>
-  💬 Ask me about **Flutter, firebase, Dart**
+  💬 Ask me about **Anything Mobile**
   <br>
   📫 How to reach me **eokdeveloper@gmail.com**
 </p>

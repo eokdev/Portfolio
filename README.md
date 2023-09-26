@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Olorunshola Emmanuel</h1>
-<h3 align="left">Mobile Engineer</h3>
+<h1 align="center">Hi 👋, I'm Olorunshola Emmanuel</h1>
+<h3 align="center">Mobile Engineer</h3>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="eokdev" /> </p>
 

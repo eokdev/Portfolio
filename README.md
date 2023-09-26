@@ -34,11 +34,12 @@
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/736b89be-3efe-412d-adef-cd39a2dbb59b" alt="j 2" width="200" height="400" />
   <img src="https://github.com/eokdev/Portfolio/assets/88353231/976cd3b7-e783-4c35-9306-b0afb9a1fed6" alt="j 3" width="200" height="400" />
 
-
  
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/8a179532-8774-43cd-9e3b-da75b454830f" alt="j 6" width="200" height="400" />
-   <img src="https://github.com/eokdev/Portfolio/assets/88353231/65b12f71-beb1-4c43-a687-06223667d38b" alt="j 7" width="200" height="400" />
- <img src="https://github.com/eokdev/Portfolio/assets/88353231/726cdb85-23c0-42ba-893c-ba7461f0d2e4" alt="j" width="200" height="400" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/e26038d2-1374-4b21-b9f8-45dd9a2dd379" alt="j 4" width="200" height="400" />
+   <img src="https://github.com/eokdev/Portfolio/assets/88353231/65b12f71-beb1-4c43-a687-06223667d38b" alt="j 5" width="200" height="400" />
+ <img src="https://github.com/eokdev/Portfolio/assets/88353231/726cdb85-23c0-42ba-893c-ba7461f0d2e4" alt="j 6" width="200" height="400" />
+ <img src="https://github.com/eokdev/Portfolio/assets/88353231/cd504dce-224f-4b25-b7f1-67f1ecfcd254" alt="j 7" width="200" height="400" />
+ 
 </div>
 <h2 align="center">Dooba Application:</h2>
 <div align="left">
@@ -64,6 +65,9 @@
    <img src="https://github.com/eokdev/Portfolio/assets/88353231/0e885c80-fc3c-4e35-afd5-2a03a456186f" alt="h 5" width="200" height="400" />
 
 </div>
+
+
+
 
 
 

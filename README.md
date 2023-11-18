@@ -59,29 +59,7 @@ receipt for this application is via a bluetooth thermal printer.</p>
    <img src="https://github.com/eokdev/Portfolio/assets/88353231/ad866beb-6482-4d04-a748-9d91fea3461b" alt="d 5" width="200" height="400" />
     <img src="https://github.com/eokdev/Portfolio/assets/88353231/5b8b7ee1-ca08-4011-9fb9-ac31a5b5edc9" alt="d 6" width="200" height="400" />
 </div>
-<h2 align="center">Handbook Application:</h2>
-<p align="center">Joseph Ayo Babalola University Student Handbook mobile
-application, designed to provide students with a comprehensive
-and easily accessible digital guide. This app served as a one-stop
-resource, offering important information such as campus facilities,
-academic guidelines, event calendars, and administrative contacts.
-By leveraging user-friendly interfaces and intuitive navigation, the
-application significantly enhanced students' ability to navigate
-campus life efficiently. With my efforts, I successfully delivered an
-essential tool that improved students' overall experience and
-engagement with the institution.</p>
 
-<div align="left">
-
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/fa202edc-4f5b-434e-8929-1ec46bcf840c" alt="h 1" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/982d57c3-3269-4083-a163-b91e0487d021" alt="h 2" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/257565ad-b07b-4507-bf80-728a954d97b3" alt="h 3" width="200" height="400" />
-
-
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/be058209-21c0-4a0d-8f60-9cb1a5b24e04" alt="h 4" width="200" height="400" />
-   <img src="https://github.com/eokdev/Portfolio/assets/88353231/0e885c80-fc3c-4e35-afd5-2a03a456186f" alt="h 5" width="200" height="400" />
-
-</div>
 
 
 

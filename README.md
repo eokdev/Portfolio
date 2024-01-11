@@ -66,8 +66,8 @@ receipt for this application is via a bluetooth thermal printer.</p>
 <img src="https://github.com/eokdev/Portfolio/assets/88353231/6bbf9069-e003-47a9-b727-44d43018a46a" alt="f 1" width="200" height="400" />
 <img src="https://github.com/eokdev/Portfolio/assets/88353231/7bc49e07-a503-475a-80b3-154d7cfa2ac5" alt="f 2" width="200" height="400" />
 <img src="https://github.com/eokdev/Portfolio/assets/88353231/7c4bd075-a7a0-4ce1-a20e-6de4ee4072ad" alt="f 3" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/95d75737-2275-44ac-9ee0-977811b91ad7" alt="f 4" width="200" height="700" />
-    <img src="https://github.com/eokdev/Portfolio/assets/88353231/0874f78f-7bb5-4e1f-8b2a-24cf7618a472" alt="f 5" width="200" height="700" />
+  <img src="https://github.com/eokdev/Portfolio/assets/88353231/95d75737-2275-44ac-9ee0-977811b91ad7" alt="f 4" width="600" height="400" />
+    <img src="https://github.com/eokdev/Portfolio/assets/88353231/0874f78f-7bb5-4e1f-8b2a-24cf7618a472" alt="f 5" width="600" height="400" />
 <h3 align="left">Download Application</h3>
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=doctor.finder.videocalling" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="eokdev" height="30" width="40" /></a>

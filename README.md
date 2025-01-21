@@ -46,18 +46,15 @@ receipt for this application is via a bluetooth thermal printer.</p>
  
 </div>
 
-<h2 align="center">Dooba Application:</h2>
-<p align="center"> Dooba is a wrkman like application, which links clients to professionals. The application has both the client and merchant side. The platform serves as the bridge between those seeking quality services and experts ready to meet their needs. Whether you're looking for a reliable plumber, a creative designer, or any other service provider, the app simplifies the process of finding and hiring trusted professionals.</p>
+<h2 align="center">Autovendy:</h2>
+<p align="center">Welcome to Autovendy, Nigeria's premier used car marketplace!
+
+At Autovendy, we connect you with a wide network of trusted dealerships, offering an extensive selection of pre-owned vehicles at competitive prices. Whether you're searching for a compact car, an SUV, or a luxury vehicle, Autovendy makes it easy to find what you need from the comfort of your home.</p>
 <div align="left">
 
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/9db884d6-7b28-44b4-868e-ae0470d6236c" alt="d 1" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/d4911d40-b51f-40d0-92e4-89bfcfd20515" alt="d 2" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/0aee5786-4551-464f-8680-2721a36e4890" alt="d 3" width="200" height="400" />
-
-
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/bc8a77d8-5b2c-4c3b-93d9-1d9c9a7f31a3" alt="d 4" width="200" height="400" />
-   <img src="https://github.com/eokdev/Portfolio/assets/88353231/ad866beb-6482-4d04-a748-9d91fea3461b" alt="d 5" width="200" height="400" />
-    <img src="https://github.com/eokdev/Portfolio/assets/88353231/5b8b7ee1-ca08-4011-9fb9-ac31a5b5edc9" alt="d 6" width="200" height="400" />
+  <img src="https://play-lh.googleusercontent.com/2yAPcPD9wMss7pL9DAG8hbHmW3QgMrX42Y9JYgRTn7_5aavDBvxQZQNs9ezC382L-g=w2560-h1440-rw" alt="d 1" width="200" height="400" />
+  <img src="https://play-lh.googleusercontent.com/sCOf8wwVzYXc3BxMBZ4ft8tqr3N6dg0Ti_2SsXR4Aun8dDm--973g3yr8haPvvAvxeA=w2560-h1440-rw" alt="d 2" width="200" height="400" />
+  <img src="https://play-lh.googleusercontent.com/lOkcuGhNmxf3lNDJGDS3lpQFXvQTAdITMtxhin8r7pg0KLK14CXxIMWIL5Eb-uJPtQpC=w2560-h1440-rw" alt="d 3" width="200" height="400" />
 </div>
 
 <h2 align="center">Hi Doctor:</h2>

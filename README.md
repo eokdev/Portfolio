@@ -79,20 +79,25 @@ Autovendy Dealership is designed to empower car dealers with the tools they need
   <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/10/ca/c210ca05-5832-30de-6728-0c3d08d59549/f0389c06-6f7e-4fae-aaab-da722206d846_19.png/230x0w.webp" alt="d 3" width="200" height="400" />
     <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/c2/2d/fbc22d89-0fa6-e0dc-459b-a7afbbe4edcb/1815a0c8-8443-4fd4-ae24-bfd677702cc8_18.png/230x0w.webp" alt="d 3" width="200" height="400" />
       <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/5a/05/7d5a05ea-6728-04d3-57e9-e4a0d95121a5/335fd7a1-9c20-4bc1-9cbf-273d9379657e_20.png/230x0w.webp" alt="d 1" width="200" height="400" />
-
-
-</div>
-<h2 align="center">Hi Doctor:</h2>
-<p align="center">Hi Doctor Application is a user-friendly platform for seamless healthcare services, including appointment scheduling, telemedicine, prescription management, and secure in-app communication via video conferencing and audio calls. It offers health records storage, emergency assistance, health tips, and prioritizes accessibility and convenience to enhance the patient-doctor experience.</p>
-<div align="left">
-<img src="https://github.com/eokdev/Portfolio/assets/88353231/6bbf9069-e003-47a9-b727-44d43018a46a" alt="f 1" width="200" height="400" />
-<img src="https://github.com/eokdev/Portfolio/assets/88353231/7bc49e07-a503-475a-80b3-154d7cfa2ac5" alt="f 2" width="200" height="400" />
-<img src="https://github.com/eokdev/Portfolio/assets/88353231/7c4bd075-a7a0-4ce1-a20e-6de4ee4072ad" alt="f 3" width="200" height="400" />
-  <img src="https://github.com/eokdev/Portfolio/assets/88353231/95d75737-2275-44ac-9ee0-977811b91ad7" alt="f 4" width="600" height="400" />
-    <img src="https://github.com/eokdev/Portfolio/assets/88353231/0874f78f-7bb5-4e1f-8b2a-24cf7618a472" alt="f 5" width="600" height="400" />
 <h3 align="left">Download Application</h3>
 <p align="left">
-  <a href="https://play.google.com/store/apps/details?id=doctor.finder.videocalling" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="eokdev" height="30" width="40" /></a>
+  <a href="https://apps.apple.com/ng/app/autovendy-dealer-sell-cars/id6503721466" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="30" width="40" />
+  </a>
+</p>
+
+</div>
+<h2 align="center">Dreamplanet</h2>
+<p align="center">Hi Doctor Application is a user-friendly platform for seamless healthcare services, including appointment scheduling, telemedicine, prescription management, and secure in-app communication via video conferencing and audio calls. It offers health records storage, emergency assistance, health tips, and prioritizes accessibility and convenience to enhance the patient-doctor experience.</p>
+<div align="left">
+<img src="https://play-lh.googleusercontent.com/0wvjpBBD1Q3BAgn8t01xc4Ci1RoKAIZsjZaTC2FUmcJIlJRvX1UN2jCNN78LA_jObQo=w526-h296-rw" alt="f 1" width="200" height="400" />
+<img src="https://play-lh.googleusercontent.com/PQWoy3GRoQCrA--KTNTUUx36--zDz2x2mP8VyYS6-Llbs1zDLaZLokSAnT106TL3xtM=w526-h296-rw" alt="f 2" width="200" height="400" />
+<img src="https://play-lh.googleusercontent.com/iy4pA2qGG7jiOhtEmsjVQPGAUs5L63rTHE70BdoQmV72vl9cLxzWr0g-JSVJAlji4VXC=w526-h296-rw" alt="f 3" width="200" height="400" />
+  <img src="https://play-lh.googleusercontent.com/xAnEoS42_rqSXOjXHkU6Hiep6Vw_fK8bG7BFiL5NEUcE5FsHYr0Ul5pQa_7LJIubRAQ=w526-h296-rw" alt="f 4" width="600" height="400" />
+    <img src="https://play-lh.googleusercontent.com/X9Iwp7QzyXvlM69Fs_9llKP3wH8kgLu6fYe9h6GpKlBgJRssdcLyIhtPjVZjjPf_LOAE=w526-h296-rw" alt="f 5" width="600" height="400" />
+<h3 align="left">Download Application</h3>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.dreamplanet.app" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="eokdev" height="30" width="40" /></a>
 
 </p>
   

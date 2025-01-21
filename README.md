@@ -88,7 +88,7 @@ Autovendy Dealership is designed to empower car dealers with the tools they need
 
 </div>
 <h2 align="center">Dreamplanet</h2>
-<p align="center">Hi Doctor Application is a user-friendly platform for seamless healthcare services, including appointment scheduling, telemedicine, prescription management, and secure in-app communication via video conferencing and audio calls. It offers health records storage, emergency assistance, health tips, and prioritizes accessibility and convenience to enhance the patient-doctor experience.</p>
+<p align="center">Dream Planet is a one-of-a-kind platform reshaping the entertainment industry by giving creators a public stage and connecting them directly with fans and investors. Musicians, filmmakers, actors, dancers, comedians, writers, and other creatives can now showcase their talents, launch campaigns, and gain the support they need to reach new heights.</p>
 <div align="left">
 <img src="https://play-lh.googleusercontent.com/0wvjpBBD1Q3BAgn8t01xc4Ci1RoKAIZsjZaTC2FUmcJIlJRvX1UN2jCNN78LA_jObQo=w526-h296-rw" alt="f 1" width="200" height="400" />
 <img src="https://play-lh.googleusercontent.com/PQWoy3GRoQCrA--KTNTUUx36--zDz2x2mP8VyYS6-Llbs1zDLaZLokSAnT106TL3xtM=w526-h296-rw" alt="f 2" width="200" height="400" />

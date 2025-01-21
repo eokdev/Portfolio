@@ -46,7 +46,7 @@ receipt for this application is via a bluetooth thermal printer.</p>
  
 </div>
 
-<h2 align="center">Autovendy:</h2>
+<h2 align="center">Autovendy</h2>
 <p align="center">Welcome to Autovendy, Nigeria's premier used car marketplace!
 
 At Autovendy, we connect you with a wide network of trusted dealerships, offering an extensive selection of pre-owned vehicles at competitive prices. Whether you're searching for a compact car, an SUV, or a luxury vehicle, Autovendy makes it easy to find what you need from the comfort of your home.</p>
@@ -55,8 +55,22 @@ At Autovendy, we connect you with a wide network of trusted dealerships, offerin
   <img src="https://play-lh.googleusercontent.com/2yAPcPD9wMss7pL9DAG8hbHmW3QgMrX42Y9JYgRTn7_5aavDBvxQZQNs9ezC382L-g=w2560-h1440-rw" alt="d 1" width="200" height="400" />
   <img src="https://play-lh.googleusercontent.com/sCOf8wwVzYXc3BxMBZ4ft8tqr3N6dg0Ti_2SsXR4Aun8dDm--973g3yr8haPvvAvxeA=w2560-h1440-rw" alt="d 2" width="200" height="400" />
   <img src="https://play-lh.googleusercontent.com/lOkcuGhNmxf3lNDJGDS3lpQFXvQTAdITMtxhin8r7pg0KLK14CXxIMWIL5Eb-uJPtQpC=w2560-h1440-rw" alt="d 3" width="200" height="400" />
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/c7/be/84c7be03-3245-cfdd-3fd6-73245d9c582b/f65dd39c-3564-48c8-9a79-601b1a206a0b_2.png/230x0w.webp" alt="d 3" width="200" height="400" />
+      <img src="https://play-lh.googleusercontent.com/2yAPcPD9wMss7pL9DAG8hbHmW3QgMrX42Y9JYgRTn7_5aavDBvxQZQNs9ezC382L-g=w2560-h1440-rw" alt="d 1" width="200" height="400" />
 </div>
+<h2 align="center">Autovendy Dealer</h2>
+<p align="center">Welcome to Autovendy Dealership, your ultimate tool for boosting car sales and optimizing dealership operations!
 
+
+Autovendy Dealership is designed to empower car dealers with the tools they need to manage their operations more efficiently and sell more cars. Whether you're looking to increase inventory turnover, improve customer interactions, or streamline your sales processes, our app is your one-stop solution.</p>
+<div align="left">
+
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/05/2d/36052d12-f164-5c6f-4e73-23fe500dfb87/f380fd16-c6c7-4206-9c0c-9064c80a62cf_1__U00285_U0029.png/313x0w.webp" alt="d 1" width="200" height="400" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/5a/3d/705a3dae-4e9d-f199-bbf0-aa01792b6e26/9ec381d7-734a-4ea2-99ac-e39f7097c012_17.png/230x0w.webp" alt="d 2" width="200" height="400" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/10/ca/c210ca05-5832-30de-6728-0c3d08d59549/f0389c06-6f7e-4fae-aaab-da722206d846_19.png/230x0w.webp" alt="d 3" width="200" height="400" />
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/c2/2d/fbc22d89-0fa6-e0dc-459b-a7afbbe4edcb/1815a0c8-8443-4fd4-ae24-bfd677702cc8_18.png/230x0w.webp" alt="d 3" width="200" height="400" />
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/5a/05/7d5a05ea-6728-04d3-57e9-e4a0d95121a5/335fd7a1-9c20-4bc1-9cbf-273d9379657e_20.png/230x0w.webp" alt="d 1" width="200" height="400" />
+</div>
 <h2 align="center">Hi Doctor:</h2>
 <p align="center">Hi Doctor Application is a user-friendly platform for seamless healthcare services, including appointment scheduling, telemedicine, prescription management, and secure in-app communication via video conferencing and audio calls. It offers health records storage, emergency assistance, health tips, and prioritizes accessibility and convenience to enhance the patient-doctor experience.</p>
 <div align="left">

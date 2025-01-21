@@ -93,8 +93,8 @@ Autovendy Dealership is designed to empower car dealers with the tools they need
 <img src="https://play-lh.googleusercontent.com/0wvjpBBD1Q3BAgn8t01xc4Ci1RoKAIZsjZaTC2FUmcJIlJRvX1UN2jCNN78LA_jObQo=w526-h296-rw" alt="f 1" width="200" height="400" />
 <img src="https://play-lh.googleusercontent.com/PQWoy3GRoQCrA--KTNTUUx36--zDz2x2mP8VyYS6-Llbs1zDLaZLokSAnT106TL3xtM=w526-h296-rw" alt="f 2" width="200" height="400" />
 <img src="https://play-lh.googleusercontent.com/iy4pA2qGG7jiOhtEmsjVQPGAUs5L63rTHE70BdoQmV72vl9cLxzWr0g-JSVJAlji4VXC=w526-h296-rw" alt="f 3" width="200" height="400" />
-  <img src="https://play-lh.googleusercontent.com/xAnEoS42_rqSXOjXHkU6Hiep6Vw_fK8bG7BFiL5NEUcE5FsHYr0Ul5pQa_7LJIubRAQ=w526-h296-rw" alt="f 4" width="600" height="400" />
-    <img src="https://play-lh.googleusercontent.com/X9Iwp7QzyXvlM69Fs_9llKP3wH8kgLu6fYe9h6GpKlBgJRssdcLyIhtPjVZjjPf_LOAE=w526-h296-rw" alt="f 5" width="600" height="400" />
+  <img src="https://play-lh.googleusercontent.com/xAnEoS42_rqSXOjXHkU6Hiep6Vw_fK8bG7BFiL5NEUcE5FsHYr0Ul5pQa_7LJIubRAQ=w526-h296-rw" alt="f 4" width="200" height="400" />
+    <img src="https://play-lh.googleusercontent.com/X9Iwp7QzyXvlM69Fs_9llKP3wH8kgLu6fYe9h6GpKlBgJRssdcLyIhtPjVZjjPf_LOAE=w526-h296-rw" alt="f 5" width="200" height="400" />
 <h3 align="left">Download Application</h3>
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.dreamplanet.app" target="blank"><img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="eokdev" height="30" width="40" /></a>

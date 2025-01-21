@@ -63,7 +63,7 @@ At Autovendy, we connect you with a wide network of trusted dealerships, offerin
     <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="30" width="40" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.autovendy.app" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/303103/applestore.svg" alt="iOS App" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="30" width="40" />
   </a>
 </p>
 </div>

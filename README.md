@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/eokdev" target="blank"><img src="https://img.shields.io/twitter/follow/eokdev?logo=twitter&style=for-the-badge" alt="eokdev" /></a> </p>
 
 <p align="left">
-  🔭 I'm currently working on **A MOBILE APPLICATION**
+  🔭 I'm currently working on ###A MOBILE APPLICATION
   <br>
-  💬 Ask me about **Anything Mobile**
+  💬 Ask me about ###Anything Mobile
   <br>
-  📫 How to reach me **eokdeveloper@gmail.com**
+  📫 How to reach me ###eokdeveloper@gmail.com
 </p>
 
 ## Connect with me:

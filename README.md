@@ -33,12 +33,18 @@
   <a href="https://play.google.com/store/apps/details?id=com.tractrac.plus&pcampaignid=web_share" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
   </a>
+    <a href="https://apps.apple.com/ng/app/tractrac-plus/id6754968082" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="40" width="40" />
+  </a>
 </p>
 
 ### Tractrac Agent
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.tractrac.agent&pcampaignid=web_share" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
+  </a>
+  <a href="https://apps.apple.com/ng/app/tractrac-agent/id6754979879" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="40" width="40" />
   </a>
 </p>
 

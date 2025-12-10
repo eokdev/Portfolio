@@ -28,6 +28,16 @@
 
 ## Projects:
 
+### Dream Planet
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.dreamplanet.app" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
+  </a>
+  <a href="https://apps.apple.com/app/dream-planet-for-creators/id6738397299" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="40" width="40" />
+  </a>
+</p>
+
 ### Tractrac Plus
 <p align="left">
   <a href="https://play.google.com/store/apps/details?id=com.tractrac.plus&pcampaignid=web_share" target="blank">
@@ -48,6 +58,12 @@
   </a>
 </p>
 
+### Medik
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.medik.apppublic" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
+  </a>
+</p>
 ### Autovendy
 <p align="left">
   <a href="https://apps.apple.com/ng/app/autovendy-buy-sell-used-car/id6503488504" target="blank">
@@ -65,22 +81,6 @@
   </a>
 </p>
 
-### Medik
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.medik.apppublic" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
-  </a>
-</p>
-
-### Dream Planet
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=com.dreamplanet.app" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
-  </a>
-  <a href="https://apps.apple.com/app/dream-planet-for-creators/id6738397299" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="40" width="40" />
-  </a>
-</p>
 
 ### Service Rendering App
 <p align="left">

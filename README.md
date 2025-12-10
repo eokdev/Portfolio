@@ -64,6 +64,7 @@
     <img align="center" src="https://www.svgrepo.com/show/223032/playstore.svg" alt="Android App" height="40" width="40" />
   </a>
 </p>
+
 ### Autovendy
 <p align="left">
   <a href="https://apps.apple.com/ng/app/autovendy-buy-sell-used-car/id6503488504" target="blank">
@@ -80,7 +81,6 @@
     <img align="center" src="https://www.svgrepo.com/show/353415/apple-app-store.svg" alt="iOS App" height="40" width="40" />
   </a>
 </p>
-
 
 ### Service Rendering App
 <p align="left">
